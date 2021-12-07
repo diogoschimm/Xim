@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <PackageId>Xim</PackageId>
+    <Authors>Diogo Schimmelpfennig</Authors>
+    <Company>AZL</Company>
+    <Product>Xim</Product>
+    <Description>Interface de Repositório Generico para Domain com Core 3.1</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
